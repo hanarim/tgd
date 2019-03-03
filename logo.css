@@ -6,3 +6,8 @@ header .row>div:nth-child(1)>a {
 	background: url("https://hanarim.github.io/tgd/movie_logo.png") no-repeat;
 	background-size: auto 50px;
 }
+
+header .row>div:nth-child(1)>a>img {
+  display: none;
+}
+
