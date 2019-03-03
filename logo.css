@@ -1,8 +1,8 @@
 /* 트게더 로고 ( 없으면 주석처리 하세요 ) */
 header .row>div:nth-child(1)>a {
 	display: block;
-	width: var(200px);
+	width: 200px;
 	height: 50px;
-	background: var("https://hanarim.github.io/tgd/movie_logo.png") no-repeat;
+	background: ("https://hanarim.github.io/tgd/movie_logo.png") no-repeat;
 	background-size: auto 50px;
 }
