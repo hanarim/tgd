@@ -1,6 +1,6 @@
 /* 사용자 설정 부분 */
 :root {
-	--logoURL: url(https://hanarim.github.io/tgd/movie_logo.png);
+	--logoURL: url("https://hanarim.github.io/tgd/movie_logo.png");
 	--logoWidth: 200px
 }
 
