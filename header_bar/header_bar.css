@@ -4,8 +4,8 @@ header #header-bar {
 	margin-bottom: 0.5em; 
 	padding-right: 30px; 
 	padding-left: 30px; 
-    border-top: 4px -webkit-linear-gradient(57deg, #5baefd 0%,#006cc8 100%);
-    background: #ffffff;
-    border-bottom: none;
-    border-right: none;
+	/* border-top: 4px -webkit-linear-gradient(57deg, #5baefd 0%,#006cc8 100%);
+	background: #ffffff;
+	border-bottom: none;
+	border-right: none; */
 	}
