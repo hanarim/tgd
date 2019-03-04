@@ -5,7 +5,7 @@ header #header-bar {
 	padding-right: 30px; 
 	padding-left: 30px; 
     border-top: -webkit-linear-gradient(57deg, var(#5baefd) 0%,var(#006cc8) 100%);
-    background: 4px solid var(#ffffff);
+    background: 4px var(#ffffff);
     border-bottom: none;
     border-right: none;
 	}
