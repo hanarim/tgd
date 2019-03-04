@@ -1,2 +1,11 @@
 /* 상단 메뉴바 */
-header #header-bar { margin-top: 0.5em; margin-bottom: 0.5em; padding-right: 30px; padding-left: 30px; }
+header #header-bar > .row { 
+	margin-top: 0.5em; 
+	margin-bottom: 0.5em; 
+	padding-right: 30px; 
+	padding-left: 30px; 
+    border-top: -webkit-linear-gradient(57deg, var(#5baefd) 0%,var(#006cc8) 100%);
+    background: 4px solid var(#ffffff);
+    border-bottom: none;
+    border-right: none;
+	}
